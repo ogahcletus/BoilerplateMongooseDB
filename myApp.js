@@ -1,4 +1,7 @@
 require('dotenv').config();
+require('mongoose');
+let MONGO_URI = mongodb+srv://cletus2022:tsHW9W7stbD2W7UA @cletus1.qcunw.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+mongoose.connect(MONGO_URI, { useNewUrlParser: true, useUnifiedTopology: true });
 
 
 let Person;
