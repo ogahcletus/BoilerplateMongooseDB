@@ -1,2 +1,1 @@
-# BoilerplateMongooseDB
-A freecodecamp Backend Development project on learning how to use Mongo Databases
+# [MongoDB and Mongoose Challenges](https://www.freecodecamp.org/learn/apis-and-microservices/mongodb-and-mongoose/)
